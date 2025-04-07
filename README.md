@@ -2,6 +2,9 @@
 
 Quick diff of the old and new Unvereinbarkeitserklärung of CCC e.V. (German only). 
 
+## Where's the diff?
+* Here: https://github.com/cku-heise/ccc-uv/commit/74d42f75f3e90a397ac92590e7b53153e4f94230
+
 ## Sources
 
 * 2005 version lives here: https://www.ccc.de/de/updates/2005/unvereinbarkeitserklaerung
